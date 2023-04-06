@@ -1,4 +1,4 @@
-export default function CopyMe() {
+export default function DragDrop() {
   const onDragStart = (e: React.DragEvent<HTMLInputElement>) => console.log('onDragStart', e.dataTransfer)
   const onDragEnd = (e: React.DragEvent<HTMLInputElement>) => console.log('onDragEnd', e.dataTransfer)
 
