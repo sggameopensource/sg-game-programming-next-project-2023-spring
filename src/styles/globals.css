@@ -4,3 +4,11 @@
   font-family: 'Material Icons';
   display: inline-block;
 }
+
+.text-blue {
+  color: blue;
+}
+
+.tedt-red {
+  color: red;
+}
